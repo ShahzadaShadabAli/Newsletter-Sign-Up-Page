@@ -19,7 +19,7 @@ const Form = () => {
   }
 
     return (
-        <div className="bg-white min-h-[81%] w-[58rem] max-md:rounded-none rounded-[30px]">
+        <div className="bg-white min-h-[38rem] w-[58rem] max-md:rounded-none rounded-[30px]">
         <div className="flex p-6 pl-[.3rem] max-md:p-0 max-md:flex-col-reverse">
           <section className="flex-1 flex justify-center items-center max-md:my-12">
             <div className="w-[75%]">
