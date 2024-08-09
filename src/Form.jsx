@@ -44,7 +44,7 @@ const Form = () => {
 
                 <div className="flex gap-4 animate-fade-right animate-delay-[600ms]">
                   <img
-                    src="../public/assets/images/icon-success.svg"
+                    src="/assets/images/icon-success.svg"
                     width={21}
                     alt=""
                   />
